@@ -1,0 +1,6 @@
+/venv/
+/tries/
+/data/
+*.iml
+*.xml
+/.idea
