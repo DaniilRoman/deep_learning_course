@@ -1,5 +1,5 @@
 import random
-from knn import OwnKNeighborsClassifier
+from task1.knn import OwnKNeighborsClassifier
 
 
 class GetModelResult:
